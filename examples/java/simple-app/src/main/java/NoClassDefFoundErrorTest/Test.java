@@ -1,9 +1,5 @@
 package NoClassDefFoundErrorTest;
 
-import com.typesafe.config.Config;
-import com.typesafe.config.ConfigFactory;
-import simplelib.SimpleLibContext;
-
 class Test {
     public static void main(String[] args) {
         Test test = new Test();
